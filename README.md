@@ -2,7 +2,7 @@
 
 
 <pt-br>
-  Projeto Final de mobile. Propósito do aplicativo: guardar o dinheiro do usuário em um cofrinho
+  Projeto Final de mobile. Propósito do aplicativo: guardar o dinheiro do usuário em um cofrinho.
 </pt-br>
 
 <en-us>
